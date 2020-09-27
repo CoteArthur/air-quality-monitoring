@@ -14,7 +14,6 @@ public class Sequenceur implements ActionListener {
 	private CThingSpeak thingspeak;
 	
 	public Sequenceur() {
-		// TODO Auto-generated method stub
 		accesBDD = new AccesBDD();
 		acquisition = new Acquisition(accesBDD);
 		

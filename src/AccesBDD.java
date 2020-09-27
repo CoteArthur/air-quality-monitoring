@@ -34,7 +34,6 @@ public class AccesBDD {
 					listeSonde.add(new DataSonde(rs.getInt("ADRESSE_SONDE"), rs.getString("NOM_SALLE")));
 				}
 			} catch (SQLException e1) {
-				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
 	        
@@ -113,7 +112,6 @@ public class AccesBDD {
 	        		avgHygro = Math.round(rs.getInt(4));
 	        	}
 			} catch (SQLException e1) {
-				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
 	        
@@ -167,7 +165,6 @@ public class AccesBDD {
 		    		tabCO2.add(rs.getInt(1));
 		    	}
 			} catch (SQLException e1) {
-				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
 		    
