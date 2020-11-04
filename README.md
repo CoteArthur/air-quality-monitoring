@@ -4,7 +4,7 @@ This application consists of periodic sendings of a modbus frame to each of the 
 
 _This project was made in group, it is not whole as it is since this repo is meant to showcase my personal work done for portfolio purposes._
 
-
+![](https://cotearthur.github.io/air-quality-monitoring/running-app-screenshot.png)
 
 # [Conception file (french)](https://cotearthur.github.io/air-quality-monitoring/conception-file.pdf)
 
