@@ -10,8 +10,9 @@ _This project was made in group, it is not whole as it is since this repo is mea
 
 ## Class diagram :
 
-[CThingSpeak](https://github.com/CoteArthur/air-quality-monitoring/blob/master/src/CThingSpeak.java) and [Mccrypt](https://github.com/CoteArthur/air-quality-monitoring/blob/master/src/Mccrypt.java) are not my making. I opted to keep them in the repo for coherence purposes.
 ![](https://cotearthur.github.io/air-quality-monitoring/class-diagram.png)
+[CThingSpeak](https://github.com/CoteArthur/air-quality-monitoring/blob/master/src/CThingSpeak.java) and [Mccrypt](https://github.com/CoteArthur/air-quality-monitoring/blob/master/src/Mccrypt.java) are not my making. I opted to keep them in the repo for coherence purposes.
+
 See the [conception file](https://cotearthur.github.io/air-quality-monitoring/conception-file.pdf) for more informations. Contact me if you do not speak french and would still like more infos.
 
-View https://cotearthur.github.io/air-quality-monitoring/ for the JavaDoc
+View https://cotearthur.github.io/air-quality-monitoring/javadoc for the JavaDoc
